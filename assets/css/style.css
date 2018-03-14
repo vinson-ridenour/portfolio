@@ -544,8 +544,9 @@ h3 > .fa {
 	margin-bottom: 40px;
 }
 
-.profile-image-p {
-	margin-top: 30px;
+.profile-text {
+	/* margin-top: 30px; */
+	font-size: 20px;
 }
 
 .widget-social {
